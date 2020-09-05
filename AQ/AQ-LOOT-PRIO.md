@@ -6,7 +6,7 @@
 
 ## T2,5 PRIO:
 
-*Disclaimer: Following priorities are not set in stone. Interpret it rather like a rule of thumb. It's also important to get accociated idols which are rare drops in AQ40. We rather give out the set piece to someone that have the idol available and ready for use because the set piece drops every raid. Raid attendance and performance are also two factors that matter when T2,5 pieces are handed out.*
+*Disclaimer: Following priorities are not set in stone. Interpret it rather like a rule of thumb. It's also important to get accociated idols which are rare drops in AQ40. We rather give out the set piece to someone that have the idol available and ready for use because the set pieces drop every raid. Raid attendance and performance are also two factors that matter when T2,5 pieces are handed out.*
 
 
 ### HEAD:
