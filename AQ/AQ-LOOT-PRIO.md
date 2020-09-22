@@ -36,7 +36,7 @@ The worst T2,5 set piece. Warlocks get better legs in AQ20. Decent Feral legs th
 #### C'Thun:
 ##### (Warrior, Paladin, Hunter, Rogue):
     Warrior (tank) > Rogue > Hunter > Warrior (dps) > others
-For dps warriors, Breast of Annihilation and arguably SGC are better than T2,5.
+For dps warriors, Breast of Annihilation is better than T2,5.
 
 ##### (Priest, Mage, Warlock, Druid):
     Warlock = Mage > others
